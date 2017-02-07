@@ -1,0 +1,1 @@
+angular.modular('eggly.models.categories', []);

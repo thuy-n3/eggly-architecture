@@ -1,0 +1,1 @@
+angular.modules('categories.bookmarks.create', [])
